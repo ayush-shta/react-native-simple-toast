@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vonovak/react-native-simple-toast.git"
+    "url": "git+https://github.com/vonovak/react-native-simple-toast.git#0.1.1"
   },
   "author": "xgfe",
   "license": "MIT"

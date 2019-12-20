@@ -6,7 +6,7 @@ This is based on work at https://github.com/xgfe/react-native-simple-toast.
 ## Install
 
 ```bash
-npm install react-native-simple-toast --save
+yarn add https://github.com/ayush-shta/react-native-simple-toast
 react-native link react-native-simple-toast
 ```
 then rebuild your project
